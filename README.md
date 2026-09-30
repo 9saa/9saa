@@ -10,4 +10,3 @@ Java, JavaScript, C++, C, TypeScript, Rust, Ruby, Python, C#, Go, Kotlin, SQL, P
 ## why do I choose to do programming?
 I mainly chose to program because it was one of the only things I actually knew and the only thing I probably will know.
 I code out of spite of my self-hatred.
-I feel I’m inferior and not worth what I get paid but I’ve been told otherwise, I just can’t come to believe a pseudo.

@@ -14,4 +14,4 @@ Go, Kotlin, and Scala
 I mainly chose to program because it was one of the only things I actually knew and the only thing I probably will know.
 
 ## New released game!
-check it out: https://youarethegame.download
+check it out: https://youarethelevel.download

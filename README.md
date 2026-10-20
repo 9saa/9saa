@@ -5,7 +5,13 @@ I'm known as Lism.
 I have a tested IQ of 123, crazy—yes!
 I am a freelance software and web developer, I enjoy to learn new coding languages.
 I currently know:
-Java, JavaScript, C++, C, TypeScript, Rust, Ruby, Python, C#, Go, Kotlin, SQL, PHP, and Scala.
+Java, JavaScript, C++, C, TypeScript, Rust, Ruby, Python, C#, SQL, and PHP.
+
+languages I forgot:
+Go, Kotlin, and Scala
 
 ## why do I choose to do programming?
 I mainly chose to program because it was one of the only things I actually knew and the only thing I probably will know.
+
+## New released game!
+check it out: https://youarethegame.download
